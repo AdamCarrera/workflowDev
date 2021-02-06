@@ -1,0 +1,27 @@
+picoscope_rangemV: 10000
+picoscope_blocks: 30
+picoscope_timebase: 2
+picoscope_externalTrigger: True
+picoscope_triggermV: 5000
+picoscope_triggermVMax: 10000
+picoscope_preSamples: 0
+picoscope_postSamples: 2500
+picoscope_samplesMax: 100000
+picoscope_setSigGen: False
+
+siglent_frequencyHz: '1000000'
+siglent_amplitudeV: '10'
+siglent_burstPeriodS: '.0001'
+siglent_cycles: '5'
+siglent_output: 'ON'
+
+#nanoseconds
+plot_xMin: 0
+plot_xMax: 10000
+
+#millivolts
+plot_yMin: -10000
+plot_yMax: 10000 
+
+plot_xPadding: .01
+plot_yPadding: .1
