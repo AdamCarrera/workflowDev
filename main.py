@@ -2,16 +2,16 @@ def function1():
     print('goodbye')
 
 
-def function2(x1, x2):
+def function2(x1, x2, x4):
     x3 = x1 * x2
     # TEST COMMENTS!! CAN YOU READ THIS!!?
-    for x in x1:
-        print(x)
+    return x1 * x2 + x3 + x4
 
 
 def main():
     function1()
-    function2([1, 2, 3], 3)
+    y = function2(1, 3, 2)
+    print(y)
 
 
 if __name__ == '__main__':
