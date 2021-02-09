@@ -5,13 +5,13 @@ def function1():
 
 def function2(x1, x2):
     x3 = x1 * x2
+    # TEST COMMENTS!! CAN YOU READ THIS!!?
     return x1 * x2 + x3
 
 
 
 def main():
     function1()
-
     y = function2(1, 3)
 
 
