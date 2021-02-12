@@ -9,6 +9,11 @@ def function2(x1, x2):
         print(x)
 
 
+def function3(x1):
+    for x in x1:
+        print(x + 2)
+
+
 def main():
     function1()
     function2([1, 2, 3], 3)
