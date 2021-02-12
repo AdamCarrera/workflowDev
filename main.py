@@ -15,6 +15,11 @@ def function3(x1):
         print(x + 2)
 
 
+def function4(x1, x2, x3):
+    y = x1 + x2 + x3
+    return y
+
+
 def main():
     function1()
     function2([1, 2, 3], 3)
