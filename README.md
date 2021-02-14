@@ -2,7 +2,7 @@
 
 Welcome to our new repository, this readme file will talk you through our new workflow.
 
-**This is a work in progress**
+**This is a work in progress** :)
 
 # Github Workflow
 
