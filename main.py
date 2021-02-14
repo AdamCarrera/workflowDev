@@ -15,8 +15,8 @@ def function3(x1):
         print(x + 2)
 
 
-def function4(x1, x2, x3):
-    y = x1 + x2 + x3
+def function4(x1, x2, x3, x4):
+    y = x1 + x2 + x3 - x4
     return y
 
 
