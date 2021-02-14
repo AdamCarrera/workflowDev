@@ -23,6 +23,7 @@ def function4(x1, x2, x3, x4):
 def main():
     function1()
     function2([1, 2, 3], 3)
+    print("hello")
 
 
 if __name__ == '__main__':
