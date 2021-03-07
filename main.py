@@ -9,6 +9,10 @@ def function2(x1, x2):
         print(x)
 # Demo
 # conflict
+def add_numbers(y1, y2):
+    return y1 + y2
+
+
 # Add documentation
 def function3(x1):
     for x in x1:
