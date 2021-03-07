@@ -12,6 +12,9 @@ def function2(x1, x2):
 def add_numbers(y1, y2):
     return y1 + y2
 
+# kirubel can you review my code?
+while True:
+    print("hello world!")
 
 # Add documentation
 def function3(x1):
