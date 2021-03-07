@@ -8,6 +8,9 @@ def function2(x1, x2):
     for x in x1:
         print(x)
 # Demo
+def add_numbers(y1, y2):
+    return y1 + y2
+
 
 # Add documentation
 def function3(x1):
